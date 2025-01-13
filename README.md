@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anejjar" alt="anejjar" /></a> </p>
 
-- 💬 Ready for freelancing : **anejjar.com**
+- 💬 Ready for freelancing : **<a href="https://anejjar.com" target="_blank" >anejjar.com</a>**
 
 - 📫 How to reach me :  **anejjarelhoucine@gmail.com**
 
