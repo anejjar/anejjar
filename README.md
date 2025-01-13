@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anejjar" alt="anejjar" /></a> </p>
 
-- 💬 Ask me about **JavaScript, react, nextjs**
+- 💬 Ready for freelancing : **anejjar.com**
 
-- 📫 How to reach me **anejjarelhoucine@gmail.com**
+- 📫 How to reach me :  **anejjarelhoucine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
