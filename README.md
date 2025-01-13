@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm ANEJJAR Elhoucine!</h1>
-<h3 align="center">I'm a Frontend developer focused on harnessing technology to make significant impacts in the tech industry and beyond.</h3>
+<h3 align="center">Front & Back End developer and UX / UI passion | Open-source lover | Life hacker who 💓 code, meditation and solving human problems.</h3>
 
 <h3>Technical Skills 🛠️</h3>
 <ul>
-  <li>Languages: JavaScript, TypeScript</li>
-  <li>Frameworks & Libraries: React, Next.js, Express.js</li>
-  <li>Tools & Platforms: GitHub, Docker, Postman, Vercel...</li>
+  <li>Languages: PHP, JavaScript, Go, Python</li>
+  <li>Frameworks & Libraries: React, Vuejs, Laravel</li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anejjar&label=Profile%20views&color=0e75b6&style=flat" alt="anejjar" /> </p>
@@ -14,11 +13,11 @@
 
 - 💬 Ask me about **JavaScript, react, nextjs**
 
-- 📫 How to reach me **ahmedhridw@gmail.com**
+- 📫 How to reach me **anejjarelhoucine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hrid-044895258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hrid-044895258/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anejjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anejjar/" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages && Tools:
