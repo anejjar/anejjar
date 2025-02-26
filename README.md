@@ -3,8 +3,9 @@
 
 <h3>Technical Skills 🛠️</h3>
 <ul>
-  <li>Languages: PHP, JavaScript, Go, Python</li>
-  <li>Frameworks & Libraries: React, Vuejs, Laravel</li>
+  <li>Languages: PHP, JavaScript</li>
+  <li>Frameworks & Libraries: Laravel, React, Vuejs, Wordpress</li>
+  <li>Learning: Python, Go.. </li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anejjar&label=Profile%20views&color=0e75b6&style=flat" alt="anejjar" /> </p>
